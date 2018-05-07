@@ -139,7 +139,7 @@ MIT license.
 
 Created in 2016 by [Jeff Geerling](http://jeffgeerling.com/), author of [Ansible for DevOps](http://ansiblefordevops.com/).
 
-## Changes Author
+### Changes Author
 
 Wherever this differs from the original repository change have been made by:
 
