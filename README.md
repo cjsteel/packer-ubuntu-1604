@@ -121,6 +121,15 @@ vagrant up virtualbox --provider=virtualbox
 For VMware Fusion:
 
     vagrant up vmware --provider=vmware_fusion
+## Uploading to Vagrant
+
+If you want your boxes available "everwhere" you can create a free account on **Vagrant Cloud. My**. The example I created is here:
+
+```shell
+https://app.vagrantup.com/csteel/boxes/Ubuntu1604
+```
+
+
 
 ## License
 
@@ -129,3 +138,9 @@ MIT license.
 ## Author Information
 
 Created in 2016 by [Jeff Geerling](http://jeffgeerling.com/), author of [Ansible for DevOps](http://ansiblefordevops.com/).
+
+## Changes Author
+
+Wherever this differs from the original repository change have been made by:
+
+2018 Christopher Steel
